@@ -1,6 +1,6 @@
 <?php
 // (c) 2021 ClubCMS
-// This is ClubCMS
+// GNU Public License
 // Include the header of your website
 include 'header.php';
 // Include the ClubCMS content ( blog, about, pricing...).
