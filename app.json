@@ -1,0 +1,7 @@
+{
+  "name": "ClubCMS",
+  "description": "ClubCMS: A crazy, simple and easy MarkDown Powered CMS.",
+  "repository": "https://github.com/getClubCMS/clubCMS",
+  "logo": "https://clubcms.herokuapp.com/logo.png",
+  "keywords": ["cms", "websites", "ClubCMS"]
+}
