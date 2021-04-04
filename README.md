@@ -5,3 +5,6 @@ ClubCMS: A crazy, simple and easy MarkDown Powered CMS.
 
 # Demo
 Demo at clubcms.herokuapp.com
+
+# Download.
+Visit https://codeload.github.com/getClubCMS/clubCMS/zip/refs/heads/mirror
