@@ -44,7 +44,7 @@
           }
         })
       } else {
-        $('#content').html('<h1>Please supply a valid URL</h1>')
+        $('#content').html('<h1>ClubCMS</h1><h2>Program Loader</h2>')
       }
     })
   </script>
