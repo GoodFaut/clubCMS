@@ -1,2 +1,4 @@
 # ClubCMS
-## A crazy, simple and easy MarkDown Powered CMS.
+## A crazy, simple
+## And easy MarkDown Powered 
+## CMS.
